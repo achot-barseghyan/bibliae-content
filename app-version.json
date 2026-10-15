@@ -3,7 +3,7 @@
   "minimum": "1.0.0",
   "stores": {
     "android": "https://play.google.com/store/apps/details?id=com.bibliae.app",
-    "ios": ""
+    "ios": "https://apps.apple.com/app/id6822832756"
   },
   "news": [
   { "glyph": "☩", "title": "Ordres & communautés", "body": "Bénédictins, Franciscains, Jésuites, communautés nouvelles : leur histoire, leur charisme et où les rencontrer." },
