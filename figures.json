@@ -30,6 +30,22 @@
     "mentions": 18
   },
   {
+    "id": "serpent",
+    "name": "Le Serpent",
+    "originalName": "נָחָשׁ",
+    "testament": "ancien",
+    "genre": "homme",
+    "role": "Autre",
+    "epoque": "Origines",
+    "date": "4000 av. J.-C.",
+    "books": [
+      "Gn",
+      "2Co",
+      "Ap"
+    ],
+    "mentions": 9
+  },
+  {
     "id": "noe",
     "name": "Noé",
     "originalName": "נֹחַ",

@@ -4121,6 +4121,211 @@
       }
     ]
   },
+  "serpent": {
+    "alternateNames": "נָחָשׁ (Naḥash) · ὄφις (Ophis) · « l'antique serpent, celui qu'on nomme Diable et Satan » (Ap 12, 9)",
+    "reperes": [
+      {
+        "label": "Époque",
+        "value": "Origines"
+      },
+      {
+        "label": "Lieu",
+        "value": "Jardin d'Éden"
+      },
+      {
+        "label": "Description",
+        "value": "« Le plus rusé de tous les animaux des champs » (Gn 3, 1)"
+      },
+      {
+        "label": "Châtiment",
+        "value": "Ramper sur le ventre et manger la poussière (Gn 3, 14)"
+      },
+      {
+        "label": "Identification",
+        "value": "Le Diable, Satan, selon l'Apocalypse (Ap 12, 9 ; 20, 2)"
+      },
+      {
+        "label": "Nom",
+        "value": "hébreu naḥash, « serpent », rapproché du verbe « siffler, deviner »"
+      },
+      {
+        "label": "Occurrences",
+        "value": "9 versets liés"
+      }
+    ],
+    "biography": [
+      [
+        {
+          "type": "text",
+          "text": "Dans le jardin d'Éden, le serpent, « le plus rusé de tous les animaux des champs », s'adresse à la femme et met en doute la parole de Dieu : « Alors, Dieu vous a dit : “Vous ne mangerez d'aucun arbre du jardin” ? » "
+        },
+        {
+          "type": "ref",
+          "ref": {
+            "display": "Gn 3, 1",
+            "bookId": "gn",
+            "chapter": 3,
+            "verseStart": 1
+          }
+        },
+        {
+          "type": "text",
+          "text": ". Il lui assure qu'elle ne mourra pas et que, si elle mange du fruit de l'arbre de la connaissance du bien et du mal, ses yeux s'ouvriront et elle sera « comme des dieux » "
+        },
+        {
+          "type": "ref",
+          "ref": {
+            "display": "Gn 3, 4-5",
+            "bookId": "gn",
+            "chapter": 3,
+            "verseStart": 4,
+            "verseEnd": 5
+          }
+        },
+        {
+          "type": "text",
+          "text": ". La femme mange du fruit et en donne à son mari ; interrogée par Dieu, elle répond : « Le serpent m'a trompée, et j'ai mangé » "
+        },
+        {
+          "type": "ref",
+          "ref": {
+            "display": "Gn 3, 13",
+            "bookId": "gn",
+            "chapter": 3,
+            "verseStart": 13
+          }
+        },
+        {
+          "type": "text",
+          "text": "."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "text": "Dieu maudit le serpent entre tous les animaux et le condamne à ramper sur le ventre et à manger la poussière. Il annonce une hostilité entre lui et la femme, entre sa descendance et la descendance de la femme : « celle-ci te meurtrira la tête, et toi, tu lui meurtriras le talon » "
+        },
+        {
+          "type": "ref",
+          "ref": {
+            "display": "Gn 3, 14-15",
+            "bookId": "gn",
+            "chapter": 3,
+            "verseStart": 14,
+            "verseEnd": 15
+          }
+        },
+        {
+          "type": "text",
+          "text": ". La tradition chrétienne lit dans ce verset le « Protévangile », première annonce de la victoire du Messie sur le mal."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "text": "Le Nouveau Testament revient sur cette tromperie originelle : Paul craint que les fidèles ne se laissent corrompre « comme le serpent a séduit Ève par sa ruse » "
+        },
+        {
+          "type": "ref",
+          "ref": {
+            "display": "2Co 11, 3",
+            "bookId": "2co",
+            "chapter": 11,
+            "verseStart": 3
+          }
+        },
+        {
+          "type": "text",
+          "text": ". Jésus appelle le diable « homicide dès le commencement » et « père du mensonge » "
+        },
+        {
+          "type": "ref",
+          "ref": {
+            "display": "Jn 8, 44",
+            "bookId": "jn",
+            "chapter": 8,
+            "verseStart": 44
+          }
+        },
+        {
+          "type": "text",
+          "text": ". L'Apocalypse identifie enfin « l'antique serpent » au Diable et à Satan, vaincu et précipité sur la terre "
+        },
+        {
+          "type": "ref",
+          "ref": {
+            "display": "Ap 12, 9",
+            "bookId": "ap",
+            "chapter": 12,
+            "verseStart": 9
+          }
+        },
+        {
+          "type": "text",
+          "text": ", puis enchaîné "
+        },
+        {
+          "type": "ref",
+          "ref": {
+            "display": "Ap 20, 2",
+            "bookId": "ap",
+            "chapter": 20,
+            "verseStart": 2
+          }
+        },
+        {
+          "type": "text",
+          "text": "."
+        }
+      ]
+    ],
+    "timeline": [
+      {
+        "dateLabel": "Origines",
+        "text": "Présent dans le jardin d'Éden, le plus rusé des animaux des champs."
+      },
+      {
+        "dateLabel": "Origines",
+        "text": "Tente la femme et met en doute la parole de Dieu."
+      },
+      {
+        "dateLabel": "Origines",
+        "text": "La femme et l'homme mangent du fruit défendu."
+      },
+      {
+        "dateLabel": "Origines",
+        "text": "Maudit par Dieu ; annonce de l'hostilité avec la descendance de la femme (Protévangile)."
+      },
+      {
+        "dateLabel": "Fin des temps",
+        "text": "Identifié au Diable, vaincu et enchaîné selon l'Apocalypse."
+      }
+    ],
+    "regionLabel": "Jardin d'Éden (Mésopotamie biblique)",
+    "locationsSummary": "Apparaît dans le jardin d'Éden, situé par la Genèse entre les fleuves Tigre et Euphrate, où il tente la femme près de l'arbre de la connaissance du bien et du mal.",
+    "churchTeaching": {
+      "text": "Le Catéchisme enseigne que derrière le choix désobéissant de nos premiers parents se trouve une voix séductrice, opposée à Dieu, que l'Écriture et la Tradition identifient à un ange déchu appelé Satan ou diable (§ 391). L'homme, tenté par lui, a laissé mourir dans son cœur la confiance envers son Créateur (§ 397). Gn 3, 15 est appelé « Protévangile » : première annonce du Messie rédempteur et de la victoire finale sur le mal, où les Pères ont vu la nouvelle Ève, Marie (§ 410-411).",
+      "councilIds": []
+    },
+    "relatedFigures": [
+      {
+        "figureId": "eve",
+        "relation": "Tentée et trompée par lui"
+      },
+      {
+        "figureId": "adam",
+        "relation": "Mange du fruit défendu à sa suite"
+      },
+      {
+        "figureId": "mary",
+        "relation": "« Nouvelle Ève », dont la descendance lui écrase la tête (Gn 3, 15)"
+      },
+      {
+        "figureId": "jesus",
+        "relation": "Vainqueur du mal, annoncé par le Protévangile"
+      }
+    ]
+  },
   "sarah": {
     "alternateNames": "שָׂרַי puis שָׂרָה (Saraï puis Sara) · « princesse »",
     "reperes": [
