@@ -7,19 +7,19 @@
   },
   "news": [
     {
-      "glyph": "❡",
-      "title": "La messe et les heures, comme dans le bréviaire",
-      "body": "Antiennes, numéros de versets, répons et « Gloire au Père » repliable : une nouvelle page de lecture pour chaque office."
+      "glyph": "✿",
+      "title": "Le Rosaire, à votre façon",
+      "body": "Signe de croix, Credo, prière de Fatima, clausules, Ave abrégés : réglez le déroulé du chapelet. Nouveau design, qui suit votre thème de lecture."
     },
     {
-      "glyph": "⁂",
-      "title": "D'une lecture à l'autre",
-      "body": "Glissez pour passer à la lecture suivante, et retrouvez votre place en revenant."
+      "glyph": "❦",
+      "title": "Méditer avec saint Jean-Paul II",
+      "body": "Chaque mystère s'ouvre sur un extrait de la lettre Rosarium Virginis Mariae, avec le lien vers le texte intégral."
     },
     {
-      "glyph": "✚",
-      "title": "Abbayes & monastères",
-      "body": "Une centaine de lieux de prière en France, avec recherche et filtres par famille monastique."
+      "glyph": "¶",
+      "title": "Plusieurs chapitres d'un geste",
+      "body": "Dans la Bible, sélectionnez plusieurs chapitres pour les marquer comme lus, les annoter ou les partager. Une erreur ? Annulez en un toucher."
     }
   ]
 }
